@@ -10,7 +10,7 @@ require (
 	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/openyurtio/raven-controller-manager v0.0.0-20220406044430-46883661c853
-	github.com/spf13/cobra v1.4.0
+	github.com/spf13/cobra v1.5.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.1
 	github.com/vdobler/ht v5.3.0+incompatible
